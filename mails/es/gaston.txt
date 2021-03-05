@@ -1,0 +1,6 @@
+Hola {firstname} {lastname},
+
+{shop_name} ¡Te regala un descuento!
+
+Has gastado un total de en {cantidad_gastada} en {shop_name} 
+{shop_url}

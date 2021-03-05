@@ -1,0 +1,9 @@
+Hola {firstname} {lastname},
+
+{shop_name} ¡Te regala un descuento!
+
+Esta es la sorpresa, un descuento de {coupon_amount}% al total de tu pedido!
+el descuento se aplicará cuando lo valides en el carrito, tu cantidad gastada en la tienda es de {cantidad_gastada}
+¡Que lo disfrutes!
+tu código: {cupon_codigo}
+{shop_url}
